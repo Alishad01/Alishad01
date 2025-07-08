@@ -44,7 +44,7 @@ I'm a passionate tech enthusiast and community builder focused on **AI, ML, and 
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white)](https://linkedin.com/in/alishad01)  
 [![Twitter](https://img.shields.io/badge/X-black?logo=twitter&logoColor=white)](https://x.com/alishad01)  
-📧 Email: `alishadnaushad@gmail.com`  
+📧 Email: `alishadansari01@gmail.com`  
 🌐 Portfolio: [Coming Soon!]
 
 ---
