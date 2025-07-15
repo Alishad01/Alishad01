@@ -1,6 +1,6 @@
 🎓 B.Tech CSE (AI & ML Core) | 📍 India  
 🧠 Aspiring AI Engineer | 🚀 Campus Leader | 📢 GitHub Campus Expert (Applied)  
-
+Just Trying to Compile the World with Full of Errors
 ---
 
 ## 🔍 About Me
