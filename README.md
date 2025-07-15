@@ -1,13 +1,11 @@
-🎓 B.Tech CSE (AI & ML Core) | 📍 India  
-🧠 Aspiring AI Engineer | 🚀 Campus Leader | 📢 GitHub Campus Expert (Applied)  
-            Just Trying to Compile the World with Full of Errors
+ 🎓 B.Tech CSE (AI & ML Core) | 📍 India  
+🧠 Aspiring AI Engineer | Startup Enthusiast 
+Just Trying to Compile the World with Full of Errors
 ---
 
 ## 🔍 About Me
 
 I'm a passionate tech enthusiast and community builder focused on **AI, ML, and developer education**. Currently in my 4th semester, I love sharing knowledge, building tools that solve real problems, and helping others get started with open source.
-
-- 🔭 Currently building: `ViraBand` – A smart wearable for women's safety  
 - 🧑‍🏫 Tutor @ UrbanPro | Ex-Intern @ IIT Research Lab  
 - ✨ Founder of [Aqlera](https://yourdomain.com) (Coming soon 🚧)  
 - 💡 Learning AI/ML via Krish Naik & IBM SkillBuild  
