@@ -62,6 +62,13 @@
 
 ---
 
+### 🟡 Pacman Contribution Graph  
+<p align="center">
+  <img src="https://raw.githubusercontent.com/shdbfrz/shdbfrz/output/pacman-contribution-graph.svg" alt="Pacman Contribution Graph"/>
+</p>
+
+---
+
 ## 🌐 Connect With Me  
 - [LinkedIn](https://linkedin.com/in/alishadansari01)  
 - [Twitter / X](https://twitter.com/ali_shad01)  
