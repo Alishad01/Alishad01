@@ -69,13 +69,15 @@
 
 ---
 
-## 🌐 Connect With Me  
-- [LinkedIn](https://linkedin.com/in/alishadansari01)  
-- [Twitter / X](https://twitter.com/ali_shad01)  
-- [GeeksforGeeks](https://auth.geeksforgeeks.org/user/alishadansari01)  
-- [LeetCode](https://leetcode.com/ali_shad01)  
-- [HackerRank](https://www.hackerrank.com/alishadansari01)  
-- 📧 [Email Me](mailto:alishadansari01@gmail.com)  
+###  Connect with Me  
+<p align="left">
+  <a href="https://linkedin.com/in/alishadansari01"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+  <a href="https://twitter.com/ali_shad01"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter"/></a>
+  <a href="https://auth.geeksforgeeks.org/user/alishadansari01"><img src="https://img.shields.io/badge/GeeksforGeeks-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white" alt="GeeksforGeeks"/></a>
+  <a href="https://leetcode.com/ali_shad01"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" alt="LeetCode"/></a>
+  <a href="https://www.hackerrank.com/alishadansari01"><img src="https://img.shields.io/badge/Hackerrank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white" alt="HackerRank"/></a>
+  <a href="mailto:alishadnaushad@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
+</p>
 
 ---
 
