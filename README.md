@@ -68,7 +68,7 @@
 - [GeeksforGeeks](https://auth.geeksforgeeks.org/user/alishadansari01)  
 - [LeetCode](https://leetcode.com/ali_shad01)  
 - [HackerRank](https://www.hackerrank.com/alishadansari01)  
-- 📧 [Email Me](mailto:yourmail@gmail.com)  
+- 📧 [Email Me](mailto:alishadansari01@gmail.com)  
 
 ---
 
