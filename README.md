@@ -63,7 +63,12 @@
 ---
 
 ## 🌐 Connect With Me  
-[LinkedIn](https://linkedin.com/in/alishadansari01) | [Twitter](https://twitter.com/) | [GeeksforGeeks](https://auth.geeksforgeeks.org/user/) | [LeetCode](https://leetcode.com/ali_shad01) | [HackerRank](https://www.hackerrank.com/ali_shad01) | [Gmail](mailto:alishadansari01@gmail.com)   
+- [LinkedIn](https://linkedin.com/in/alishadansari01)  
+- [Twitter / X](https://twitter.com/ali_shad01)  
+- [GeeksforGeeks](https://auth.geeksforgeeks.org/user/alishadansari01)  
+- [LeetCode](https://leetcode.com/ali_shad01)  
+- [HackerRank](https://www.hackerrank.com/alishadansari01)  
+- 📧 [Email Me](mailto:yourmail@gmail.com)  
 
 ---
 
