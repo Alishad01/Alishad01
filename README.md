@@ -5,7 +5,7 @@ Just Trying to Compile the World with Full of Errors
 
 ## 🔍 About Me
 
-I'm a passionate tech enthusiast and community builder focused on **AI, ML, and developer education**. Currently in my 4th semester, I love sharing knowledge, building tools that solve real problems, and helping others get started with open source.
+I'm Ali SHad Naushad a passionate tech enthusiast and community builder focused on **AI, ML, and developer education**. Currently in my 4th semester, I love sharing knowledge, building tools that solve real problems, and helping others get started with open source.
 
 ## 🧠 Tech Stack
 
