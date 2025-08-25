@@ -1,4 +1,5 @@
 # Hi, I'm Ali Shad Naushad 👋  
+ A passionate CSE AI&ML student dedicated to Building Intelligent Systems & Scalable Tech and creating solutions for real-world impact
 🎓 B.Tech CSE (AI & ML) Student | 🧠 Machine Learning Enthusiast | 🌍 Tech Community Builder | 🛠️ Scalable Systems Innovator  
 
 ---
