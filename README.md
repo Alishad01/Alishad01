@@ -58,8 +58,7 @@
 ## 🏆 Achievements  
 - 🏅 **NPTEL Silver Medalist**  
 - 🎓 **IBM Virtual Internship (Gen-AI & Fake News Pipeline)**  
-- 🌱 Active participant in **tech communities & hackathons**  
-- 🚀 Exploring **GitHub Campus Expert** & **Google Developer Student Club**  
+- 🌱 Active participant in **tech communities & hackathons**   
 
 ---
 
